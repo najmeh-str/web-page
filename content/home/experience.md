@@ -24,8 +24,7 @@ date_format = "Jan 2006"
   location = "Santa Clara, CA"
   date_start = "2019-12-16"
   date_end = ""
-  description = ""
-  Responsibilities include: Researching attacks on cloud platforms
+  description = """Responsibilities include: Researching attacks on cloud platforms
   
   """
 
